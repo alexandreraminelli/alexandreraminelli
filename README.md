@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Alexandre Raminelli Junior</h1>
+<p align="center">Data Science and Artificial Intelligence student at Instituto Mauá de Tecnologia.</p>
 
 <!--
 **alexandreraminelli/alexandreraminelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
