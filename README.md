@@ -52,5 +52,5 @@ Here are some ideas to get you started:
   <br>
   <img src="https://streak-stats.demolab.com?user=alexandreraminelli&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" width="75%" alt="streak graph"  />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandreraminelli&radius=16&theme=github-light&area=true&order=5" width="80%" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandreraminelli&radius=16&theme=github-light&area=true&order=5" width="95%" alt="activity-graph graph"  />
 </div>
