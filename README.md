@@ -5,7 +5,7 @@
 
 ## 🛠️ Ferramentas, linguagens e tecnologias
 
-### 🌐 Desenvolvimento Web
+### Desenvolvimento Web 🌐
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- HTML -->
@@ -33,7 +33,7 @@
 
 </div>
 
-### 📱 Desenvolvimento Mobile
+### Desenvolvimento Mobile 📱
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- Kotlin -->
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="androidstudio logo"  />
 </div>
 
-### 🗄️ Banco de Dados
+### Banco de Dados 🗄️
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- MySQL -->
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
 </div>
 
-### 🛠️ Controle de versão e ambientes de desenvolvimento
+### Controle de versão e ambientes de desenvolvimento 🛠️
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- Git -->
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
 </div>
 
-### 💻 Outras linguagens
+### Outras linguagens 💻
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- Python -->
@@ -76,7 +76,7 @@
 
 </div>
 
-### 🎨 Design UI/UX
+### Design UI/UX 🎨
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- Figma -->
