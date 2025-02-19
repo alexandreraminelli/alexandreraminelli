@@ -89,9 +89,13 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandreraminelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" width="40%" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandreraminelli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="40%" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=alexandreraminelli&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="80%" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandreraminelli&radius=16&theme=github-dark-dimmed&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20de%20Alexandre%20Raminelli%20Junior" width="80%" alt="activity-graph graph"  />
+<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
+  <!-- Estatísticas do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandreraminelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" width="70%" alt="stats graph"  />
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandreraminelli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="70%" alt="languages graph"  />
+  <!-- Sequência -->
+  <img src="https://streak-stats.demolab.com?user=alexandreraminelli&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="70%" alt="streak graph"  />
+  <!-- Gráfico de Contribuição -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandreraminelli&radius=16&theme=github-dark-dimmed&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20de%20Alexandre%20Raminelli%20Junior" width="95%" alt="activity-graph graph"  />
 </div>
