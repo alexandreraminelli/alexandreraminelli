@@ -91,7 +91,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
   <!-- Estatísticas do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandreraminelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" width="70%" alt="stats graph" style="margin: auto;"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandreraminelli&theme=dark&show_icons=true&hide_border=false&count_private=true&locale=pt-br&show=reviews,prs_merged" width="min(65%, 100px)" alt="stats graph" style="margin: auto;"  />
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandreraminelli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="70%" alt="languages graph" style="margin: auto;"  />
   <!-- Sequência -->
