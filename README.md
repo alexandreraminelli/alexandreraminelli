@@ -93,9 +93,9 @@
   <!-- Estatísticas do GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=alexandreraminelli&theme=dark&show_icons=true&hide_border=false&count_private=true&locale=pt-br&show=reviews,prs_merged" width="min(65%, 100px)" alt="stats graph" style="margin: auto;"  />
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandreraminelli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" width="70%" alt="languages graph" style="margin: auto;"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreraminelli&theme=dark&hide_border=false&layout=donut&hide=Jupyter%20Notebook&langs_count=10&locale=pt-br" width="min(65%, 100px)" alt="languages graph" style="margin: auto;"  />
   <!-- Sequência -->
-  <img src="https://streak-stats.demolab.com?user=alexandreraminelli&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="70%" alt="streak graph" style="margin: auto;"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=alexandreraminelli&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="min(65%, 100px)" alt="streak graph" style="margin: auto;"  /> -->
   <!-- Gráfico de Contribuição -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandreraminelli&radius=16&theme=github-dark-dimmed&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20de%20Alexandre%20Raminelli%20Junior" width="95%" alt="activity-graph graph" style="margin: auto;"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandreraminelli&radius=16&theme=github-dark-dimmed&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20de%20Alexandre%20Raminelli%20Junior" width="min(95%, 250px)" alt="activity-graph graph" style="margin: auto;"  />
 </div>
