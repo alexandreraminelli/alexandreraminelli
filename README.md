@@ -2,7 +2,7 @@
 
 <!-- Introdução -->
 <p align="left">Estudante de Ciência de Dados e Inteligência Artificial no Instituto Mauá de Tecnologia.</p>
-<p>Membro da <a href="https://github.com/GuardianMaua">Guardian Mauá</a>.</p>
+<p>Membro da <a href="https://github.com/GuardianMaua" target="_blank">Guardian Mauá</a>.</p>
 
 ## 🛠️ Ferramentas, linguagens e tecnologias
 
