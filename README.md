@@ -5,7 +5,7 @@
 
 ## 🛠️ Ferramentas, linguagens e tecnologias
 
-### 🌐 Desenvolvimento Web 
+### 🌐 Desenvolvimento Web
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- HTML -->
@@ -16,21 +16,22 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40" alt="javascript logo"  />
   <!-- TypeScript -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <!-- React -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40" alt="react logo"  />
   <!-- NodeJS -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <!-- npm -->
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
   <!-- pnpm -->
   <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" height="40" alt="npm logo"  />
+  <!-- React -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="40" alt="react logo"  />  
   <!-- Next.js -->
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <!-- Tailwind CSS -->
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="Next.js logo"  />
+  <!-- TailwindCSS -->
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="TailwindCSS logo"  />
   <!-- Vercel -->
-  <img src="https://camo.githubusercontent.com/43962ea76518cc3d0819b0206791ae36c28ccc369f99f412379914f42431c025/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" height="40" alt="nextjs logo"  />
-
+  <img src="https://camo.githubusercontent.com/43962ea76518cc3d0819b0206791ae36c28ccc369f99f412379914f42431c025/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" height="40" alt="Vercel logo"  />
+  <!-- Shadcn -->
+  <img src="https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" height="40" alt="Shadcn logo"  />
 </div>
 
 <!-- 📱 ### Desenvolvimento Mobile  -->
@@ -42,18 +43,21 @@
   <!-- <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="androidstudio logo"  /> -->
 </div>
 
-### 🗄️ Banco de Dados 
+### 🗄️ Banco de Dados
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-  <!-- Postgree -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="MySQL logo"  />
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="PostgreSQL logo"  />
   <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="MongoDB logo"  />
+  <!-- Drizzle ORM -->
+  <img src="https://img.shields.io/badge/Drizzle-black.svg?style=for-the-badge&logo=Drizzle&logoColor=C5F74F" height="40" alt="Drizzle ORM logo"  />
+  
 </div>
 
-### 🛠️ Controle de versão e ambientes de desenvolvimento 
+### 🛠️ Controle de versão e ambientes de desenvolvimento
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- Git -->
@@ -64,7 +68,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
 </div>
 
-### 💻 Outras linguagens 
+### 💻 Outras linguagens
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- Python -->
@@ -76,7 +80,7 @@
 
 </div>
 
-### 🎨 Design UI/UX 
+### 🎨 Design UI/UX
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
   <!-- Figma -->
