@@ -87,6 +87,16 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
 </div>
 
+<!-- Projetos -->
+
+## 🚀 Projetos
+
+### Projetos Integradores Interdisciplinares - Instituto Mauá de Tecnologia
+
+- #### [Jogo Educacional para o Colégio Poliedro](https://github.com/Jogo-do-Notao/jogo-do-notao)
+- #### [Aplicativo de Chatbot para os Restaurantes do Colégio Poliedro](https://github.com/PI-ChatBot/chatbot)
+- #### [Atlas Digital Interativo de Biologia Tecidual da FMABC](https://github.com/guimduarte/TTI206-ProjetoIntegradorInterdisciplinar-DesenvolvimentoMultiplataforma)
+
 ---
 
 <!-- Estatísticas -->
