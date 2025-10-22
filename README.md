@@ -34,13 +34,19 @@
   <img src="https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white" height="40" alt="Shadcn logo"  />
 </div>
 
-<!-- 📱 ### Desenvolvimento Mobile  -->
+### 📱 Desenvolvimento Mobile
 
 <div style="display: flex; flex-direction: row; gap: 8px; flex-wrap: wrap; padding-bottom: 12px;">
+  <!-- Dart -->
+  <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" height="40" alt="dart logo" />
+  <!-- Flutter -->
+  <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="40" alt="flutter logo" />
   <!-- Kotlin -->
-  <!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  /> -->
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
   <!-- Android Studio -->
-  <!-- <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="androidstudio logo"  /> -->
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="androidstudio logo"  />
+  <!-- Jetpack Compose -->
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white" height="40" alt="jetpack compose logo"  />
 </div>
 
 ### 🗄️ Banco de Dados
