@@ -1,7 +1,7 @@
 # Alexandre Raminelli
 
 <!-- Introdução -->
-<p align="left">Estudante de Ciência de Dados e Inteligência Artificial no Instituto Mauá de Tecnologia.</p>
+<p align="left">Estudante de Ciência da Computação no Instituto Mauá de Tecnologia.</p>
 
 ## 🛠️ Ferramentas, linguagens e tecnologias
 
